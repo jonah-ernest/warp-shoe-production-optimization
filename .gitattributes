@@ -1,3 +1,8 @@
 *.mod linguist-language=AMPL
 *.dat linguist-language=AMPL
 *.run linguist-language=AMPL
+
+
+*.out linguist-generated=true
+*.log linguist-generated=true
+*.txt linguist-generated=true
