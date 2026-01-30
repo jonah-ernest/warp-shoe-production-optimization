@@ -42,4 +42,5 @@ read table Machine_Assign;
 # Product_Demand belongs to the set [Product_Num]
 table Demand IN "ODBC" "./WARP2011W.mdb" "Demand":
 	[Product_Num], Product_Demand ~ Product_Demand;
+
 read table Demand;
