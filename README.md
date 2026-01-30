@@ -71,7 +71,7 @@ Several alternative scenarios were tested by modifying constraints and re-solvin
 
 ## Files and Structure
 
-- `Code/`
+- `ample_models/`
   - `.mod` — AMPL model files  
   - `.dat` — data files  
   - `.run` — execution scripts  
